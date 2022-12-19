@@ -4,4 +4,4 @@ I am particularly interested in working on Web3 projects, as I believe this tech
 
 In my previous experiences, I have gained skills in HTML, CSS, JavaScript, and various front-end frameworks such as React. 💻 Currently, I am also learning Solidity, the programming language used to build smart contracts on the Ethereum blockchain, as I believe it is an important skill to have in the world of Web3 development. 📈
 
-I am always looking for opportunities to learn and grow as a developer, and I am excited to contribute my skills and ideas to Web3 projects. 🚀 Thank you for considering me for your team! 🙏
+I am always looking for opportunities to learn and grow as a developer, and I am excited to contribute my skills and ideas to Web3 projects. 🚀
