@@ -1,7 +1,6 @@
+# Hi, I'm Altuğ (Al2) 👋
 
-Hi, my name is Altug and I am a junior front-end developer with a passion for building modern, interactive web applications using the latest technologies.
-I am particularly interested in working on Web3 projects, as I believe this technology has the potential to revolutionize the way we interact with the internet and create decentralized, secure applications.
+I'm a passionate **full-stack developer** working on web and Solidity projects. I enjoy creating impactful digital experiences from end to end.
 
-In my previous experiences, I have gained skills in TailwindCSS, JavaScript, and various front-end frameworks such as React. 💻 Currently, I am also learning Solidity, the programming language used to build smart contracts on the Ethereum blockchain, as I believe it is an important skill to have in the world of Web3 development. 📈
+In addition to development, I wear many hats as a **developer, marketer, salesperson, support specialist,** and **founder** at [Digital Voyage Agency](https://digitalvoyage.agency), where we focus on delivering innovative solutions.
 
-I am always looking for opportunities to learn and grow as a developer, and I am excited to contribute my skills and ideas to Web3 projects. 🚀
