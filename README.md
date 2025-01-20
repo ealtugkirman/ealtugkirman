@@ -1,6 +1,4 @@
-
-
-I'm a passionate **full-stack developer** working on web and Solidity projects.
-
-I wear many hats as a **developer, marketer, salesperson, support specialist,** and **founder** at [Digital Voyage Agency](https://digitalvoyage.agency), where we focus on delivering innovative solutions.
-
+coding web apps,
+building products,
+running a web agency,
+and thriving as the underdog.
